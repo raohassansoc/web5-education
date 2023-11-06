@@ -10,11 +10,6 @@ import Footer from "./../components/Footer";
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata = {
-  title: 'Web5 University',
-  description: 'Get Your Blockchain Courses',
-}
-
 export default function RootLayout({ children }) {
   const pathname = usePathname();
   const isLoginRoute = pathname === '/login' || pathname === '/signup';
