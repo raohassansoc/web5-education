@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 12 16">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#f7bca6}
+        </style>
+    </defs>
+    <g id="prefix__Pause" transform="translate(-6 -4)">
+        <rect id="prefix__Rectangle_2956" width="5" height="16" class="prefix__cls-1" data-name="Rectangle 2956" rx="1.5" transform="translate(6 4)"/>
+        <rect id="prefix__Rectangle_2957" width="5" height="16" class="prefix__cls-1" data-name="Rectangle 2957" rx="1.5" transform="translate(13 4)"/>
+    </g>
+</svg>
